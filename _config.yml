@@ -1,20 +1,4 @@
-name: S.Arch
-favicon: null
-layout_spectrum: 0.79828
 typography_spectrum: 0.5353
-title: S.Arch
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#faf9ff'
@@ -26,4 +10,21 @@ color:
   lightness: 0.332215468166396
   saturation: 0.9973052204586565
   rhythmicContrast: 0.39586080284789205
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.79828
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: S.Arch
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: S.Arch
+description: architecture | management | construction
 purpose: []
