@@ -19,6 +19,11 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: George S. Stewart
+  email: gstewart@sarchpr.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/924f7a8f-1969-4493-a724-1717e3f2fc3d.jpg
 name: S.Arch
 cta:
   domain: null
